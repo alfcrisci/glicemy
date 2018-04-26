@@ -1,0 +1,793 @@
+ID,alimento,category,latin_name,id_alim
+1,"Acciuga o alice, fresca",Prodotti della pesca,Engraulis enchrasicholus,120010
+2,"Acciuga o alice, sott'olio",Prodotti della pesca,Engraulis enchrasicholus,120020
+3,"Acciuga o alice, sotto sale",Prodotti della pesca,Engraulis enchrasicholus,120030
+4,Aglio,Verdure e Ortaggi,Allium sativum,5000
+5,Agnello cotto [tessuto muscolare privato del grasso visibile],Carni Fresche,Ovis agnus,104029
+6,Agnello [tessuto muscolare privato del grasso visibile],Carni Fresche,Ovis agnus,104020
+7,"Agnello, coscio crudo [tessuto muscolare privato del grasso visibile]",Carni Fresche,Ovis agnus,104030
+8,"Agnello, coscio, cotto [tessuto muscolare privato del grasso visibile, cotto in forno senza aggiunta di grassi e di sale]",Carni Fresche,Ovis agnus,104033
+9,"Agnello, costoletta cruda [tessuto muscolare privato del grasso visibile]",Carni Fresche,Ovis agnus,104040
+10,"Agnello, costoletta, cotta [tessuto muscolare privato del grasso visibile, cotta in forno senza aggiunta di grassi e di sale]",Carni Fresche,Ovis agnus,104043
+11,Agretti,Verdure e Ortaggi,Salsola kali,5010
+12,"Agretti, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Salsola kali,5025
+13,Albicocche,Frutta,Prunus armeniaca,7000
+14,"Albicocche, disidratate",Frutta,Prunus armeniaca,7010
+15,"Albicocche, sciroppate",Frutta,Prunus armeniaca,7020
+16,"Albicocche, secche",Frutta,Prunus armeniaca,7030
+17,Amarene,Frutta,Prunus cerasus,7700
+18,Anacardi,Frutta,Anacardium occidentale,8610
+19,Ananas,Frutta,Ananas sativa,7460
+20,"Ananas, sciroppato",Frutta,Ananas sativa,7470
+21,Anatra domestica,Carni Fresche,Anas boscas,106010
+22,"Anguilla d'allevamento, filetti",Prodotti della pesca,Anguilla anguilla,120250
+23,Anguilla di fiume,Prodotti della pesca,Anguilla anguilla,120230
+24,Anguilla di mare,Prodotti della pesca,Anguilla anguilla,120240
+25,"Anguilla, affumicata",Prodotti della pesca,Anguilla anguilla,120210
+26,"Anguilla, marinata",Prodotti della pesca,Anguilla anguilla,120220
+27,Animelle di bovino crude,Frattaglie,Bos taurus,115010
+28,"Animelle di bovino, cotte",Frattaglie,Bos taurus,115019
+29,Anona,Frutta,Annona atemoya,7480
+30,Aperitivi a base di vino,Bevande Alcooliche,,403010
+31,"Arachidi, tostate",Frutta,Arachis hypogaea,8500
+32,Aragosta  fresca,Prodotti della pesca,Palinurus elephas,128050
+33,"Aragosta, bollita",Prodotti della pesca,Palinurus elephas,128055
+34,Arance,Frutta,Citrus aurantium,8000
+35,"Arance, succo",Frutta,Citrus aurantium,8010
+36,Aranciata,Prodotti Vari,,401010
+37,Aringa fresca,Prodotti della pesca,Clupea harengus,120300
+38,"Aringa, affumicata",Prodotti della pesca,Clupea harengus,120310
+39,"Aringa, marinata",Prodotti della pesca,Clupea harengus,120320
+40,"Aringa, sotto sale",Prodotti della pesca,Clupea harengus,120330
+41,Asparagi di bosco,Verdure e Ortaggi,Asparagus officinalis,5030
+42,Asparagi di campo crudi,Verdure e Ortaggi,Asparagus officinalis,5040
+43,"Asparagi di campo, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Asparagus officinalis,5045
+44,Asparagi di serra,Verdure e Ortaggi,Asparagus officinalis,5050
+45,Avena,Cereali e Derivati,Avena sativa,10
+46,Avocado,Frutta,Persea gratissima,7490
+47,Baba' al rhum,Dolci,,207010
+48,Babaco,Frutta,Carica pentagona,7500
+49,Bacon,Carni Trasformate e Conservate,,110010
+50,Banane,Frutta,Musa sapientium,7510
+51,Barbabietole rosse crude,Verdure e Ortaggi,"Beta vulgaris, cv. rapa forma rubra",5060
+52,"Barbabietole rosse, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Beta vulgaris, cv. rapa forma rubra",5065
+53,Barretta al cocco ricoperta di cioccolato,Dolci,,214000
+54,Basilico,Verdure e Ortaggi,Ocimum basilicum,6800
+55,Bastoncini di crusca di frumento,Cereali e Derivati,,3000
+56,Bevanda tipo cola,Prodotti Vari,,401100
+57,Bieta cruda,Verdure e Ortaggi,"Beta vulgaris, cv. Cicla",5080
+58,"Bieta, cotta [bollita in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Beta vulgaris, cv. Cicla",5085
+59,"Bieta, cotta [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,"Beta vulgaris, cv. Cicla",5084
+60,"Big-burger -peso medio 191g- [Pane all'olio o al latte, doppio hamburger di carne bovina, ketchup, verdure]",Fast-Food a base di carne,,119010
+61,Birra chiara,Bevande Alcooliche,,404010
+62,Biscotti alla soia,Cereali e Derivati,,960
+63,Biscotti con crusca,Cereali e Derivati,,920
+64,Biscotti frollini,Cereali e Derivati,,900
+65,Biscotti integrali,Cereali e Derivati,,910
+66,Biscotti integrali arricchiti con fibra,Cereali e Derivati,,940
+67,Biscotti integrali con soia,Cereali e Derivati,,970
+68,Biscotti per l'infanzia,Cereali e Derivati,,980
+69,Biscotti secchi,Cereali e Derivati,,950
+70,Biscotti wafers,Cereali e Derivati,,990
+71,Boga,Prodotti della pesca,Boops boops,120400
+72,"Bovino adulto o vitellone - copertina di sotto, copertina di spalla, sottospalla, collo- [tessuto muscolare privato del grasso visibile]",Carni Fresche,Bos taurus,101230
+73,Bovino adulto o vitellone - costata - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101150
+74,Bovino adulto o vitellone - fesa - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101160
+75,Bovino adulto o vitellone - filetto - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101170
+76,Bovino adulto o vitellone - geretto anteriore e posteriore - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101240
+77,Bovino adulto o vitellone - girello - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101180
+78,Bovino adulto o vitellone - lombata - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101190
+79,Bovino adulto o vitellone - noce - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101200
+80,"Bovino adulto o vitellone - pancia, biancostato, punta di petto - [tessuto muscolare privato del grasso visibile]",Carni Fresche,Bos taurus,101250
+81,Bovino adulto o vitellone - scamone - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101210
+82,Bovino adulto o vitellone - sottofesa - [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos taurus,101220
+83,"Bovino adulto o vitellone - spalla, muscolo, girello, fesone- [tessuto muscolare privato del grasso visibile]",Carni Fresche,Bos taurus,101260
+84,Bovino adulto o vitellone - tagli anteriori,Carni Fresche,Bos taurus,101120
+85,Bovino adulto o vitellone - tagli posteriori,Carni Fresche,Bos taurus,101130
+86,"Bovino adulto o vitellone, grasso separato",Carni Fresche,Bos taurus,196000
+87,Brandy,Bevande Alcooliche,,408010
+88,Bresaola,Carni Trasformate e Conservate,,110020
+89,Brie,Formaggi e latticini,,160410
+90,Broccoletti di rapa crudi,Verdure e Ortaggi,"Brassica rapa, cv. esculenta",5090
+91,"Broccoletti di rapa, cotti  [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica rapa, cv. esculenta",5095
+92,Broccolo a testa crudo,Verdure e Ortaggi,"Brassica loeracea, cv. botritis caput
+t
+culenta",5110
+93,"Broccolo a testa, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica loeracea, cv. botritis caput",5105
+94,Bufalo [tessuto muscolare privato del grasso visibile],Carni Fresche,Bos bubalus,102000
+95,Burrini,Formaggi e latticini,,160420
+96,Burro,Olii e Grassi,,190010
+97,Burro d'arachidi,Olii e Grassi,Arachis hypogaea,9010
+98,Butirro calabro,Formaggi e latticini,,160430
+99,Cacao amaro in polvere,Prodotti Vari,,508010
+100,Cacao magro in polvere,Prodotti Vari,,508020
+101,"Cacao, bevanda al latte",Prodotti Vari,,409010
+102,Caciocavallo,Formaggi e latticini,,160800
+103,Cacioricotta di capra,Formaggi e latticini,,160810
+104,Caciotta mista,Formaggi e latticini,,160820
+105,Caciotta romana di pecora,Formaggi e latticini,,160830
+106,Caciotta toscana,Formaggi e latticini,,160840
+107,Caciottina fresca,Formaggi e latticini,,160860
+108,Caciottina mista,Formaggi e latticini,,166010
+109,Caciottina vaccina,Formaggi e latticini,,160850
+110,Caffe' tostato,Prodotti Vari,"Coffea arabica, Coffea robusta",508200
+111,"Calamaro, fresco",Prodotti della pesca,Loligo vulgaris,127100
+112,"Calamaro, surgelato",Prodotti della pesca,Loligo vulgaris,127110
+113,Camembert,Formaggi e latticini,,160870
+114,"Canditi [ciliegie, scorzette di frutta, frutti ghiacciati]",Dolci,,204010
+115,Cannoli alla crema,Dolci,,207020
+116,Capitone,Prodotti della pesca,Anguilla anguilla,120290
+117,Capocollo,Carni Trasformate e Conservate,,110100
+118,Capra [tessuto muscolare privato del grasso visibile],Carni Fresche,Capra hireus,104250
+119,Capretto,Carni Fresche,Capra hireus,104300
+120,Caramelle dure,Dolci,,202010
+121,"Caramelle tipo ""mou""",Dolci,,202020
+122,Carciofi crudi,Verdure e Ortaggi,Cynara scolymus,5120
+123,"Carciofi, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Cynara scolymus,5125
+124,"Carciofi, cotti [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Cynara scolymus,5124
+125,"Carciofi, surgelati crudi",Verdure e Ortaggi,Cynara scolymus,5130
+126,Cardi crudi,Verdure e Ortaggi,Cynara cardunculus,5140
+127,"Cardi, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Cynara cardunculus,5195
+128,"Carne bovina in gelatina, in scatola",Carni Trasformate e Conservate,Bos taurus,113010
+129,"Carne bovina pressata, in scatola",Carni Trasformate e Conservate,Bos taurus,113020
+130,Carote crude,Verdure e Ortaggi,Daucus carota,5150
+131,"Carote, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Daucus carota,5155
+132,"Carote, cotte [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Daucus carota,5154
+133,Carpa,Prodotti della pesca,Cyprinus carpio,120500
+134,Carrube,Frutta,Ceratonia siliqua,8510
+135,Castagne,Frutta,Castanea vulgaris,8520
+136,"Castagne, arrostite",Frutta,Castanea vulgaris,8521
+137,"Castagne, bollite",Frutta,Castanea vulgaris,8525
+138,"Castagne, secche",Frutta,Castanea vulgaris,8530
+139,Cavallo,Carni Fresche,Equus cabalus,103010
+140,Cavallo [tessuto muscolare privato del grasso visibile],Carni Fresche,Equus cabalus,103020
+141,Cavolfiore crudo,Verdure e Ortaggi,"Brassica oleracea, cv. botrytis cauliflaura",5160
+142,"Cavolfiore, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica oleracea, cv. botrytis cauliflaura",5165
+143,"Cavolfiore, cotto [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,"Brassica oleracea, cv. botrytis cauliflaura",5164
+144,Cavoli di bruxelles crudi,Verdure e Ortaggi,"Brassica oleracea, cv. gemmifera",5170
+145,"Cavoli di bruxelles, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica oleracea, cv. gemmifera",5175
+146,Cavolo broccolo verde ramoso crudo,Verdure e Ortaggi,Brassica oleracea,5180
+147,"Cavolo broccolo verde ramoso, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Brassica oleracea,5185
+148,"Cavolo broccolo verde ramoso, cotto [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Brassica oleracea,5184
+149,Cavolo cappuccio rosso,Verdure e Ortaggi,"Brassica oleracea, cv. capitata",5190
+150,Cavolo cappuccio verde crudo,Verdure e Ortaggi,"Brassica oleracea, cv. capitata",5200
+151,"Cavolo cappuccio verde, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica oleracea, cv. capitata",5205
+152,Cavolo verza crudo,Verdure e Ortaggi,"Brassica oleracea, cv. capitata",5210
+153,"Cavolo verza, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,"Brassica oleracea, cv. capitata",5215
+154,"Ceci in scatola, scolati",Legumi,Cicer arietinum,4010
+155,Ceci secchi crudi,Legumi,Cicer arietinum,4000
+156,"Ceci secchi, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Cicer arietinum,4005
+157,Cefalo muggine,Prodotti della pesca,Mugil cephalus,120510
+158,"Cefalo muggine, uova [bottarga]",Prodotti della pesca,Mugil cephalus,120590
+159,Cereali da colazione per bambini,Cereali e Derivati,,3010
+160,"Cernia, surgelata",Prodotti della pesca,Epinephelus guaza,120610
+161,Cervello di bovino,Frattaglie,Bos taurus,115110
+162,Cervo [tessuto muscolare privato del grasso visibile],Carni Fresche,Cervus elaphus,108010
+163,Cetrioli,Verdure e Ortaggi,Cucumis sativus,5220
+164,Cheddar,Formaggi e latticini,,160880
+165,"Cheese-burger -peso medio 132g- [Pane all'olio o al latte, hamburger di carne bovina, ketchup, verdure, formaggio]",Fast-Food a base di carne,,119020
+166,Ciccioli,Carni Trasformate e Conservate,,110130
+167,"Cicoria da taglio, coltivata",Verdure e Ortaggi,Cichorium intybus,5230
+168,Cicoria di campo cruda,Verdure e Ortaggi,Cichorium intybus,5240
+169,"Cicoria di campo, cotta [bollita in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Cichorium intybus,5245
+170,Cicoria witloof o indivia belga,Verdure e Ortaggi,Indivia belga,5250
+171,Ciliege,Frutta,Prunus avium,7710
+172,"Ciliege, candite",Frutta,Prunus avium,7720
+173,Cioccolato al latte,Dolci,,203010
+174,Cioccolato al latte con nocciole,Dolci,,203030
+175,Cioccolato fondente,Dolci,,203020
+176,Cipolle crude,Verdure e Ortaggi,Allium cepa,5300
+177,"Cipolle, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Allium cepa,5305
+178,Cipolline crude,Verdure e Ortaggi,Allium cepa,5310
+179,"Cipolline, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Allium cepa,5315
+180,Clementine,Frutta,Citrus reticulata var. clementine,8020
+181,Cocco,Frutta,Cocos nucifera,7520
+182,"Cocco, essiccato",Frutta,Cocos nucifera,7530
+183,Cocktail di frutta sciroppata,Frutta,,8940
+184,Cocomero,Frutta,Cocos nucifera,7040
+185,Coniglio intero crudo,Carni Fresche,Oryctolagus cuniculus,107010
+186,"Coniglio intero, cotto",Carni Fresche,Oryctolagus cuniculus,107019
+187,"Coniglio intero, surgelato",Carni Fresche,Oryctolagus cuniculus,107020
+188,"Coniglio, coscio",Carni Fresche,Oryctolagus cuniculus,107030
+189,Coppa Parma,Carni Trasformate e Conservate,,110150
+190,"Coratella di agnello  [cuore, polmoni, fegato, milza, reni]",Frattaglie,Ovis agnus,115120
+191,"Coratella di vitello  [cuore, polmoni, fegato, milza, reni]",Frattaglie,Bos taurus,115130
+192,Coregone,Prodotti della pesca,Coregone albula,120710
+193,"Corned beef, in scatola",Carni Trasformate e Conservate,,113030
+194,Cornetti,Cereali e Derivati,,2500
+195,Cornflakes,Cereali e Derivati,,3020
+196,Corvina,Prodotti della pesca,Corvina nigra,120810
+197,"Cotechino, confezionato precotto",Carni Trasformate e Conservate,,110190
+198,"Cotechino, confezionato precotto, [bollito per 20 min. dentro la confezione e scolato dal liquido prodotto con la cottura]",Carni Trasformate e Conservate,,110195
+199,Cozza o mitilo,Prodotti della pesca,Mytilus edulis,127120
+200,Crackers al formaggio,Cereali e Derivati,,1000
+201,Crackers alla soia,Cereali e Derivati,,1010
+202,Crackers con crusca,Cereali e Derivati,,1030
+203,Crackers salati,Cereali e Derivati,,1020
+204,Crackers senza grassi,Cereali e Derivati,,1040
+205,Cracotte,Cereali e Derivati,,1100
+206,Crema di latte -12% di lipidi,Latte e Yogurt,,140100
+207,Crema di nocciole e cacao,Dolci,,203500
+208,Crescenza,Formaggi e latticini,,160890
+209,Croissants,Cereali e Derivati,,2510
+210,Crostata con crema al cacao,Dolci,,208500
+211,Crostata con marmellata,Dolci,,208510
+212,"Crostata con marmellata di albicocche, tipo industriale",Dolci,,208520
+213,Crusca di frumento,Cereali e Derivati,Triticum aestivum,150
+214,Cuore di bovino,Frattaglie,Bos taurus,115210
+215,"Cuore di bovino, cotto",Frattaglie,Bos taurus,115219
+216,Cuore di equino,Frattaglie,Equus cabalus,115220
+217,Cuore di ovino,Frattaglie,Ovis agnus,115230
+218,Cuore di pollo crudo,Frattaglie,Gallus gallus,115240
+219,"Cuore di pollo, cotto",Frattaglie,Gallus gallus,115249
+220,Cuore di suino,Frattaglie,Sus scrofa domestica,115250
+221,Cuore di tacchino crudo,Frattaglie,Meleagris gallopavo,115260
+222,"Cuore di tacchino, cotto",Frattaglie,Meleagris gallopavo,115269
+223,Dadi da brodo,Prodotti Vari,,503010
+224,Daino,Carni Fresche,Dama dama,108100
+225,"Datteri, secchi",Frutta,Phoenix dactylifera,7630
+226,"Dentice, fresco",Prodotti della pesca,Dentex dentex,120910
+227,"Dentice, surgelato",Prodotti della pesca,Dentex dentex,120920
+228,Dolce verde,Formaggi e latticini,,161200
+229,Edam,Formaggi e latticini,,161600
+230,Emmenthal,Formaggi e latticini,,161610
+231,Fagiano,Carni Fresche,Phasianus colchicus,108510
+232,Fagioli  crudi,Legumi,Phaseolus vulgaris,4100
+233,Fagioli -Borlotti freschi crudi,Legumi,Phaseolus vulgaris,4110
+234,"Fagioli -Borlotti freschi, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4115
+235,"Fagioli -Borlotti in scatola, scolati",Legumi,Phaseolus vulgaris,4130
+236,Fagioli -Borlotti secchi crudi,Legumi,Phaseolus vulgaris,4120
+237,"Fagioli -Borlotti secchi, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4125
+238,"Fagioli -Cannellini in scatola, scolati",Legumi,Phaseolus vulgaris,4210
+239,Fagioli -Cannellini secchi crudi,Legumi,Phaseolus vulgaris,4200
+240,"Fagioli -Cannellini secchi, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4205
+241,"Fagioli, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4105
+242,"Fagioli, dall'occhio secchi",Legumi,Phaseolus vulgaris,4220
+243,"Fagiolini a corallo, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4305
+244,Fagiolini freschi crudi,Legumi,Phaseolus vulgaris,4310
+245,"Fagiolini surgelati, cotti [bolliti in acqua distillata senza aggiunta di sale e scolati]",Legumi,Phaseolus vulgaris,4325
+246,"Faraona, coscio, con pelle, crudo",Carni Fresche,Numida meleagris,106020
+247,"Faraona, coscio, senza pelle, cotto [allo spiedo senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Numida meleagris,106032
+248,"Faraona, coscio, senza pelle, crudo",Carni Fresche,Numida meleagris,106030
+249,"Faraona, petto, senza pelle, cotto [allo spiedo senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Numida meleagris,106052
+250,"Faraona, petto, senza pelle, crudo",Carni Fresche,Numida meleagris,106050
+251,Farina d'avena,Cereali e Derivati,Avena sativa,200
+252,Farina d'orzo,Cereali e Derivati,Hordeum vulgare,210
+253,Farina di castagne,Prodotti Vari,Castanea vulgaris,504010
+254,Farina di frumento duro,Cereali e Derivati,Triticum durum,250
+255,Farina di frumento integrale,Cereali e Derivati,Triticum aestivum,240
+256,Farina di frumento tipo 0,Cereali e Derivati,Triticum aestivum,230
+257,Farina di frumento tipo 00,Cereali e Derivati,Triticum aestivum,220
+258,Farina di mais,Cereali e Derivati,Zea mays,260
+259,Farina di riso,Cereali e Derivati,Oryza sativa,270
+260,Farina di segale,Cereali e Derivati,Secale cereale,280
+261,Farina di soia,Cereali e Derivati,Glicine max,290
+262,Farro,Cereali e Derivati,Triticum dicoccon,20
+263,Fave fresche crude,Legumi,Vicia faba,4400
+264,"Fave fresche, cotte [saltate in padella senza aggiunta di grassi e di sale]",Legumi,Vicia faba,4406
+265,Fave secche crude,Legumi,Vicia faba,4410
+266,Fave secche sgusciate crude,Legumi,Vicia faba,4420
+267,"Fave secche sgusciate, cotte [bollite in acqua distillata senza aggiunta di sale e scolate]",Legumi,Vicia faba,4425
+268,Fecola di patate,Prodotti Vari,Solanum tuberosum,504100
+269,Fegato di bovino,Frattaglie,Bos taurus,115320
+270,"Fegato di bovino, cotto",Frattaglie,Bos taurus,115329
+271,Fegato di equino,Frattaglie,Equus cabalus,115340
+272,Fegato di ovino,Frattaglie,Ovis agnus,115350
+273,Fegato di pollo crudo,Frattaglie,Gallus gallus,115360
+274,"Fegato di pollo, cotto",Frattaglie,Gallus gallus,115369
+275,"Fegato di suino, cotto",Frattaglie,Sus scrofa domestica,115379
+276,"Fegato di suino, crudo",Frattaglie,Sus scrofa domestica,115370
+277,Fegato di tacchino crudo,Frattaglie,Meleagris gallopavo,115380
+278,"Fegato di tacchino, cotto",Frattaglie,Meleagris gallopavo,115389
+279,Feijoa,Frutta,Feijoa sellowiana,7550
+280,Feta,Formaggi e latticini,,162000
+281,Fette biscottate,Cereali e Derivati,,1500
+282,Fette biscottate integrali,Cereali e Derivati,,1510
+283,Fichi,Frutta,Ficus carica,7050
+284,"Fichi, canditi",Frutta,Ficus carica,7060
+285,"Fichi, seccati al forno e mandorlati",Frutta,Ficus carica,7053
+286,"Fichi, secchi",Frutta,Ficus carica,7070
+287,Fichi-d'india,Frutta,Opuntia ficus -indica,7080
+288,Finocchi crudi,Verdure e Ortaggi,Foeniculum vulgare,5320
+289,"Finocchi, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Foeniculum vulgare,5325
+290,"Finocchi, cotti [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Foeniculum vulgare,5324
+291,Fiocchi d'avena,Cereali e Derivati,Avena sativa,3030
+292,Fiocchi di formaggio magro,Formaggi e latticini,,170010
+293,Fior di latte,Formaggi e latticini,,162010
+294,Fiori di zucca,Verdure e Ortaggi,Cucurbita pepo,5330
+295,Foglie di rapa,Verdure e Ortaggi,Brassica (rapa) campestris,5340
+296,Fontina,Formaggi e latticini,,162020
+297,Formaggino,Formaggi e latticini,,162030
+298,"Formaggino, meno grasso",Formaggi e latticini,,162040
+299,Formaggio cremoso spalmabile,Formaggi e latticini,,162050
+300,"Formaggio cremoso spalmabile, light",Formaggi e latticini,,170510
+301,Formaggio molle da tavola,Formaggi e latticini,,160400
+302,Fragole,Frutta,Fragaria vesca,7730
+303,Frumento duro,Cereali e Derivati,Triticum durum,30
+304,Frumento tenero,Cereali e Derivati,Triticum aestivum,40
+305,Funghi coltivati pleurotes crudi,Verdure e Ortaggi,Pleurotes ostreatus,6010
+306,"Funghi coltivati pleurotes, cotti [saltati in padella senza aggiunta di grassi e di sale]",Verdure e Ortaggi,Pleurotes ostreatus,6016
+307,Funghi coltivati prataioli crudi,Verdure e Ortaggi,Agaricus campestris,6000
+308,"Funghi coltivati prataioli, cotti [saltati in padella senza aggiunta di grassi e di sale]",Verdure e Ortaggi,Agaricus campestris,6006
+309,Funghi ovuli,Verdure e Ortaggi,"Amanita caesarea, ovulo edule",6020
+310,Funghi porcini,Verdure e Ortaggi,Boletus edulis,6030
+311,Gallina,Carni Fresche,Gallus gallus,106100
+312,"Gamberi, freschi",Prodotti della pesca,Crangon vulgaris,128100
+313,"Gamberi, sgusciati, surgelati",Prodotti della pesca,Crangon vulgaris,128110
+314,"Gelato confezionato- biscotto con crema, zabaione e cioccolato",Dolci,,206260
+315,"Gelato confezionato- cacao, in vaschetta",Dolci,,206010
+316,"Gelato confezionato- caffè, in vaschetta",Dolci,,206020
+317,Gelato confezionato- cono con panna e cioccolato,Dolci,,206270
+318,"Gelato confezionato- cono con panna, scaglie di cioccolato e noccioline",Dolci,,206280
+319,"Gelato confezionato- fior di latte, in vaschetta",Dolci,,206040
+320,"Gelato confezionato- fior di latte, ricoperto di sorbetto alla fragola",Dolci,,206050
+321,Gelato confezionato- ghiacciolo all'arancio,Dolci,,206710
+322,"Gelato confezionato- nocciola, in vaschetta",Dolci,,206060
+323,Gelato confezionato- panna ricoperta di cioccolato fondente,Dolci,,206080
+324,"Gelato confezionato- panna, in vaschetta",Dolci,,206070
+325,"Gelato confezionato- sorbetto al limone, in vaschetta",Dolci,,206800
+326,"Gelato confezionato- stracciatella, in vaschetta",Dolci,,206090
+327,"Gelato confezionato- vaniglia, in vaschetta",Dolci,,206100
+328,Gelato di crema,Dolci,,206030
+329,Germe di frumento [composizione media fra germe di frumento duro e tenero],Cereali e Derivati,,330
+330,Germogli di soia,Verdure e Ortaggi,Glicine max,5350
+331,"Gomme da masticare, lastrine e confetti",Dolci,,202500
+332,Gorgonzola,Formaggi e latticini,,162400
+333,Grana,Formaggi e latticini,,162410
+334,"Granchio, in scatola",Prodotti della pesca,Cancer pagurus,128200
+335,Grano saraceno,Cereali e Derivati,Fagopyrum esculentum,50
+336,Grappa,Bevande Alcooliche,,408100
+337,Grissini,Cereali e Derivati,,2000
+338,Groviera,Formaggi e latticini,,162420
+339,Guava,Frutta,Psidium guajava,7560
+340,Halibut,Prodotti della pesca,Hippoglossus hippoglossus,121010
+341,"Hamburger -peso medio 111g- [Pane all'olio o al latte, hamburger di carne bovina, ketchup, verdure]",Fast-Food a base di carne,,119030
+342,Indivia,Verdure e Ortaggi,Cichorium endivia cv. crispa,5400
+343,Italico,Formaggi e latticini,,163200
+344,Kiwi,Frutta,Actinidia deliciosa,7570
+345,Lamponi,Frutta,Rubus idaeus,7740
+346,Lardo,Olii e Grassi,,191010
+347,Lattarini,Prodotti della pesca,Atherina boyeri,121100
+348,Latte di bufala,Latte e Yogurt,,132010
+349,Latte di capra,Latte e Yogurt,,130010
+350,Latte di pecora,Latte e Yogurt,,131010
+351,"Latte di vacca in polvere, intero",Latte e Yogurt,,135610
+352,"Latte di vacca in polvere, parzialmente scremato",Latte e Yogurt,,135620
+353,"Latte di vacca in polvere, scremato",Latte e Yogurt,,135630
+354,"Latte di vacca pastorizzato, intero",Latte e Yogurt,,135010
+355,"Latte di vacca pastorizzato, parzialmente scremato",Latte e Yogurt,,135020
+356,"Latte di vacca pastorizzato, scremato",Latte e Yogurt,,135030
+357,"Latte di vacca UHT, intero",Latte e Yogurt,,135810
+358,"Latte di vacca UHT, parzialmente scremato",Latte e Yogurt,,135820
+359,"Latte di vacca, condensato zuccherato",Latte e Yogurt,,135510
+360,"Latte di vacca, evaporato non zuccherato",Latte e Yogurt,,135520
+361,Latteria [formaggio tipico del Veneto],Formaggi e latticini,,164400
+362,Lattuga,Verdure e Ortaggi,Lactuca sativa L.,5410
+363,Lattuga a cappuccio,Verdure e Ortaggi,Lactuca sativa L.,5420
+364,Lattuga da taglio,Verdure e Ortaggi,Lactuca sativa L.,5430
+365,Lenti colorate ripiene di cioccolato,Dolci,,202030
+366,"Lenticchie in scatola, scolate",Legumi,Lens esculenta,4510
+367,Lenticchie secche crude,Legumi,Lens esculenta,4500
+368,"Lenticchie secche, cotte [bollite in acqua distillata senza aggiunta di sale e scolate]",Legumi,Lens esculenta,4505
+369,"Lievito di birra, compresso",Prodotti Vari,,503100
+370,Limoni,Frutta,Citrus limon,8030
+371,"Limoni, succo",Frutta,Citrus limon,8040
+372,Lingua di bovino cruda,Frattaglie,Bos taurus,115400
+373,"Lingua di bovino, cotta",Frattaglie,Bos taurus,115409
+374,Liquori da dessert,Bevande Alcooliche,,407010
+375,Litchi,Frutta,Litchi chinensis,7580
+376,Loti o kaki,Frutta,Diospyros kaki,7090
+377,Luccio,Prodotti della pesca,Esox lucius,121200
+378,Lumaca,Carni Fresche,Helix pomatia,109010
+379,"Lupini, ammollati",Legumi,Lupinus albus,4600
+380,Macadamia,Frutta,Macadamia integrifolia (tetraphilla),8620
+381,"Maiale, grasso separato",Carni Fresche,Sus scrofa domestica,197000
+382,"Maiale, leggero, bistecca cruda",Carni Fresche,Sus scrofa domestica,105230
+383,"Maiale, leggero, bistecca, cotta [saltata in padella senza aggiunta di grassi e di sale]",Carni Fresche,Sus scrofa domestica,105236
+384,"Maiale, leggero, coscio",Carni Fresche,Sus scrofa domestica,105200
+385,"Maiale, leggero, lombo",Carni Fresche,Sus scrofa domestica,105210
+386,"Maiale, leggero, spalla",Carni Fresche,Sus scrofa domestica,105220
+387,"Maiale, pesante, coscio",Carni Fresche,Sus scrofa domestica,105600
+388,"Maiale, pesante, lombo",Carni Fresche,Sus scrofa domestica,105700
+389,"Maiale, pesante, spalla",Carni Fresche,Sus scrofa domestica,105800
+390,Maionese,Prodotti Vari,,502760
+391,Mais,Cereali e Derivati,Zea mays,60
+392,"Mais dolce, in scatola, sgocciolato",Cereali e Derivati,Zea mays,70
+393,"Mais, amido",Cereali e Derivati,Zea mays,300
+394,Mandaranci,Frutta,Citrus reticulata,8050
+395,Mandarini,Frutta,Citrus aurantium var. nobilis,8060
+396,"Mandorle dolci, secche",Frutta,Prunus amygdalus communis,8540
+397,Mango,Frutta,Mangifera indica,7590
+398,Margarina -100% vegetale,Olii e Grassi,,9100
+399,"Margarina -2/3 di grassi animali, 1/3 di grassi vegetali",Olii e Grassi,,9110
+400,Marmellata di mele cotogne,Dolci,,204510
+401,"Marmellate, normali e tipo frutta viva",Dolci,,204500
+402,Marsala all'uovo,Bevande Alcooliche,,407510
+403,Marsala tipico,Bevande Alcooliche,,406010
+404,Marzapane,Dolci,,217500
+405,Mascarpone,Formaggi e latticini,,164800
+406,Melagrane,Frutta,Punica granatum,7100
+407,Melanzane crude,Verdure e Ortaggi,Solanum melongena,5500
+408,"Melanzane, cotte [saltate in padella senza aggiunta di grassi e di sale]",Verdure e Ortaggi,Solanum melongena,5506
+409,Mele cotogne,Frutta,Cydonia oblonga (Pyrus cydonia),7220
+410,Mele fresche - annurche,Frutta,Pyrus malus (Malus pumila),7130
+411,Mele fresche - deliziose,Frutta,Pyrus malus (Malus pumila),7140
+412,Mele fresche - golden,Frutta,Pyrus malus (Malus pumila),7150
+413,Mele fresche - granny smith,Frutta,Pyrus malus (Malus pumila),7160
+414,Mele fresche - imperatore,Frutta,Pyrus malus (Malus pumila),7170
+415,Mele fresche - renette,Frutta,Pyrus malus (Malus pumila),7180
+416,Mele fresche con buccia,Frutta,Pyrus malus (Malus pumila),7120
+417,Mele fresche senza buccia,Frutta,Pyrus malus (Malus pumila),7110
+418,"Mele, disidratate",Frutta,Pyrus malus (Malus pumila),7190
+419,Melone d'estate,Frutta,"Cucumis melo var. reticulatus, e var. cantalupensis",7230
+420,Melone d'inverno,Frutta,Cucumis melo var. inodorus,7240
+421,Melù o pesce molo  fresco,Prodotti della pesca,Gadus poutassou,121310
+422,"Melù o pesce molo, stoccafisso secco",Prodotti della pesca,Gadus poutassou,121320
+423,"Melù o pesce molo, stoccafisso, ammollato",Prodotti della pesca,Gadus poutassou,121330
+424,Menta,Verdure e Ortaggi,Mentha spicata,6810
+425,"Merendine, con marmellata",Dolci,,210030
+426,"Merendine, farcite di latte",Dolci,,210040
+427,"Merendine, tipo briosche",Dolci,,210060
+428,"Merendine, tipo pan di spagna",Dolci,,210050
+429,"Merendine, tipo pasta frolla",Dolci,,210070
+430,Merluzzo o nasello crudo,Prodotti della pesca,Merluccius merluccius,121410
+431,"Merluzzo o nasello, baccala' ammollato",Prodotti della pesca,Merluccius merluccius,121450
+432,"Merluzzo o nasello, baccala' secco",Prodotti della pesca,Merluccius merluccius,121440
+433,"Merluzzo o nasello, bastoncini di pesce surgelati",Prodotti della pesca,Merluccius merluccius,121490
+434,"Merluzzo o nasello, surgelato",Prodotti della pesca,Merluccius merluccius,121420
+435,"Merluzzo o nasello, surgelato, cotto [in forno a microonde senza aggiunta di acqua e di sale]",Prodotti della pesca,Merluccius merluccius,121424
+436,"Merluzzo o nasello, surgelato, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Prodotti della pesca,Merluccius merluccius,121423
+437,"Merluzzo o nasello, surgelato, filetti",Prodotti della pesca,Merluccius merluccius,121430
+438,Miele,Dolci,,210010
+439,Miglio,Cereali e Derivati,Panicum miliaceum,80
+440,Miglio decorticato,Cereali e Derivati,Panicum miliaceum,81
+441,Milza di bovino,Frattaglie,Bos taurus,115500
+442,"Minestre in scatola, crema di asparagi",Prodotti Vari,,900010
+443,"Minestre in scatola, crema di cipolle",Prodotti Vari,,900110
+444,"Minestre in scatola, crema di funghi",Prodotti Vari,,900210
+445,"Minestre in scatola, crema di pollo",Prodotti Vari,,900310
+446,"Minestre in scatola, crema di pomodori",Prodotti Vari,,900410
+447,Minestrone liofilizzato,Prodotti Vari,,905100
+448,"Minestrone, cotto",Verdure e Ortaggi,,905010
+449,Mirtilli,Frutta,Vaccinium myrtillus,7760
+450,Molluschi,Prodotti della pesca,,127000
+451,Mora di rovo,Frutta,Rubus fruticosus,7750
+452,Mormora,Prodotti della pesca,Lithognatus mormyrus,121500
+453,Mortadella,Carni Trasformate e Conservate,,110200
+454,Mortadella di bovino e suino,Carni Trasformate e Conservate,,110210
+455,Mozzarella di bufala,Formaggi e latticini,,164810
+456,Mozzarella di vacca,Formaggi e latticini,,164820
+457,Muesli,Cereali e Derivati,,3040
+458,Nespole,Frutta,Eriobotrya japonica,7250
+459,"Nocciole, secche",Frutta,Corylus avellana,8550
+460,Noci,Frutta,Juglans regia,8560
+461,Noci pecan,Frutta,Carya illinoensis,8580
+462,"Noci, secche",Frutta,Juglans regia,8570
+463,Oca,Carni Fresche,Anser anser,106150
+464,Occhiata,Prodotti della pesca,Oblada melanura,121600
+465,"Olii vegetali [oliva, soia, mais ecc.]",Olii e Grassi,,9799
+466,Olio di arachide,Olii e Grassi,Arachis hypogaea,9610
+467,Olio di cocco,Olii e Grassi,Cocos nucifera,9620
+468,Olio di colza,Olii e Grassi,,9630
+469,Olio di fegato di merluzzo,Olii e Grassi,Merluccius merluccius,194000
+470,Olio di germe di grano,Olii e Grassi,Triticum aestivum,9640
+471,Olio di girasole,Olii e Grassi,Helianthus annuus,9650
+472,Olio di mais,Olii e Grassi,Zea mays,9660
+473,Olio di mandorle dolci,Olii e Grassi,Prunus amygdalus communis,9670
+474,Olio di oliva,Olii e Grassi,Olea europeae L.,9200
+475,Olio di oliva extra vergine,Olii e Grassi,Olea europeae L.,9210
+476,Olio di palma,Olii e Grassi,,9680
+477,Olio di sesamo,Olii e Grassi,Sesamum indicum,9690
+478,Olio di soia,Olii e Grassi,Glicine max,9700
+479,Olio di vinacciolo,Olii e Grassi,,9710
+480,Olive da tavola conservate,Frutta,Olea europeae L.,8800
+481,Olive nere,Frutta,Olea europeae L.,8810
+482,Olive verdi,Frutta,Olea europeae L.,8820
+483,Olive verdi in salamoia,Frutta,Olea europeae L.,8830
+484,"Orata fresca d'allevamento, filetti",Prodotti della pesca,Sparus auratus,121730
+485,"Orata fresca, filetti",Prodotti della pesca,Sparus auratus,121720
+486,"Orata, surgelata",Prodotti della pesca,Sparus auratus,121710
+487,Orzo perlato,Cereali e Derivati,Hordeum vulgare,90
+488,Ostrica,Prodotti della pesca,Ostrea edulis,127130
+489,Pagello,Prodotti della pesca,Pagellus centrodontus,121800
+490,Pagello bocca d'oro,Prodotti della pesca,Chrysophrys auratus,121900
+491,Palombo,Prodotti della pesca,Mustelus mustelus,122000
+492,Pancetta magretta,Carni Trasformate e Conservate,,110300
+493,Pancetta tesa,Carni Trasformate e Conservate,,110310
+494,Pane al malto,Cereali e Derivati,,500
+495,Pane azzimo,Cereali e Derivati,,600
+496,Pane di segale,Cereali e Derivati,,510
+497,Pane di tipo 0,Cereali e Derivati,,530
+498,Pane di tipo 00,Cereali e Derivati,,520
+499,Pane di tipo 1,Cereali e Derivati,,540
+500,Pane di tipo integrale,Cereali e Derivati,,550
+501,Pane formato rosetta,Cereali e Derivati,,560
+502,Panettone,Dolci,,216000
+503,Pangrattato,Cereali e Derivati,,570
+504,Panini al latte,Cereali e Derivati,,580
+505,Panini all'olio,Cereali e Derivati,,590
+506,Panna o crema di latte,Latte e Yogurt,,140300
+507,"Panna, sterilizzata",Latte e Yogurt,,140400
+508,Papaia,Frutta,Carica  papaya,7600
+509,Pappa per bambini alle verdure,Cereali e Derivati,,3060
+510,Pappa reale,Prodotti Vari,,507100
+511,Parmigiano,Formaggi e latticini,,166000
+512,Passiflora,Frutta,Passiflora edulis,7610
+513,Pasta all'uovo secca cruda,Cereali e Derivati,,870
+514,"Pasta all'uovo secca, cotta [bollita in acqua distillata senza aggiunta di sale]",Cereali e Derivati,,871
+515,Pasta di mandorle,Dolci,,217000
+516,Pasta di semola cruda,Cereali e Derivati,,800
+517,"Pasta di semola, cotta e condita al ragu'",Cereali e Derivati,,835
+518,"Pasta di semola, cotta [bollita in acqua distillata senza aggiunta di sale e scolata]",Cereali e Derivati,,805
+519,"Pasta di semola, integrale cruda",Cereali e Derivati,,850
+520,"Pasta di semola, integrale, cotta e condita al ragù",Cereali e Derivati,,865
+521,"Pasta di semola, integrale, cotta [bollita in acqua distillata senza aggiunta di sale]",Cereali e Derivati,,855
+522,Patate crude,Verdure e Ortaggi,Solanum tuberosum,6500
+523,Patate novelle crude,Verdure e Ortaggi,Solanum tuberosum,6580
+524,"Patate novelle, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Solanum tuberosum,6585
+525,"Patate novelle, cotte [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Solanum tuberosum,6584
+526,"Patate, cotte con buccia [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Solanum tuberosum,6505
+527,"Patate, cotte senza buccia [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Solanum tuberosum,6515
+528,"Patate, cotte [arrosto]",Verdure e Ortaggi,Solanum tuberosum,6511
+529,"Patate, cotte [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Solanum tuberosum,6514
+530,"Patate, cotte, con latte e formaggio",Verdure e Ortaggi,Solanum tuberosum,6519
+531,"Patate, cotte, fritte",Verdure e Ortaggi,Solanum tuberosum,6517
+532,"Patatine fritte, in busta",Verdure e Ortaggi,Solanum tuberosum,6570
+533,Patè di coniglio,Carni Trasformate e Conservate,,114010
+534,Patè di fegato,Carni Trasformate e Conservate,,114020
+535,Patè di pollo,Carni Trasformate e Conservate,,114030
+536,Patè di prosciutto,Carni Trasformate e Conservate,,114040
+537,Pecora [tessuto muscolare privato del grasso visibile],Carni Fresche,Ovis agnus,104610
+538,Pecorino,Formaggi e latticini,,166050
+539,Pecorino romano,Formaggi e latticini,,166060
+540,Pecorino siciliano,Formaggi e latticini,,166070
+541,Pepe nero,Verdure e Ortaggi,Piper nigrum,6820
+542,Peperoncini piccanti,Verdure e Ortaggi,Caspicum annuum (frutescens),6830
+543,Peperoni crudi,Verdure e Ortaggi,Caspicum annuum (frutescens),5600
+544,"Peperoni, cotti [saltati in padella senza aggiunta di grassi e di sale]",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5606
+545,"Peperoni, gialli cotti [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5624
+546,"Peperoni, gialli crudi",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5620
+547,"Peperoni, rossi cotti [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5634
+548,"Peperoni, rossi crudi",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5630
+549,"Peperoni, rossi e gialli",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5610
+550,"Peperoni, verdi",Verdure e Ortaggi,"Caspicum annuum, cv. grossum",5640
+551,"Pere fresche, senza buccia",Frutta,Pyrus communis,7260
+552,"Pere, candite",Frutta,Pyrus communis,7270
+553,Pesce gatto,Prodotti della pesca,Ictalurus melas r.,122100
+554,Pesche con buccia,Frutta,Prunus persica,7290
+555,Pesche senza buccia,Frutta,Prunus persica,7280
+556,"Pesche, disidratate",Frutta,Prunus persica,7300
+557,"Pesche, sciroppate",Frutta,Prunus persica,7310
+558,"Pesche, secche",Frutta,Prunus persica,7320
+559,Peschenoci senza buccia,Frutta,Prunus persica,7330
+560,Piccione giovane,Carni Fresche,Columba livia,108520
+561,Pinoli,Frutta,Pinus pinea,8590
+562,Piselli freschi crudi,Legumi,Pisum sativum,4700
+563,"Piselli freschi, cotti [saltati in padella senza aggiunta di grassi e di sale]",Legumi,Pisum sativum,4706
+564,"Piselli in scatola, scolati",Legumi,Pisum sativum,4720
+565,Piselli secchi,Legumi,Pisum sativum,4710
+566,Piselli surgelati,Legumi,Pisum sativum,4730
+567,Pistacchi,Frutta,Pistacia vera,8600
+568,Pizza bianca,Cereali e Derivati,,700
+569,Pizza con pomodoro,Cereali e Derivati,,710
+570,Pizza con pomodoro e mozzarella,Cereali e Derivati,,720
+571,Pollo intero con pelle crudo,Carni Fresche,Gallus gallus,106200
+572,"Pollo intero con pelle, cotto [arrosto di rosticceria]",Carni Fresche,Gallus gallus,106251
+573,"Pollo intero con pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106203
+574,Pollo intero senza pelle crudo,Carni Fresche,Gallus gallus,106210
+575,"Pollo intero senza pelle, cotto [arrosto di rosticceria]",Carni Fresche,Gallus gallus,106261
+576,"Pollo intero senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106213
+577,"Pollo, ala con pelle cruda",Carni Fresche,Gallus gallus,106270
+578,"Pollo, ala con pelle, cotta [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106273
+579,"Pollo, carne, pelle e rigaglie",Carni Fresche,Gallus gallus,106690
+580,"Pollo, fuso con pelle crudo",Carni Fresche,Gallus gallus,106400
+581,"Pollo, fuso con pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106403
+582,"Pollo, fuso senza pelle crudo",Carni Fresche,Gallus gallus,106410
+583,"Pollo, fuso senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106413
+584,"Pollo, petto crudo",Carni Fresche,Gallus gallus,106500
+585,"Pollo, petto, cotto [saltato in padella senza aggiunta di grassi e di sale]",Carni Fresche,Gallus gallus,106506
+586,"Pollo, sovracoscio con pelle crudo",Carni Fresche,Gallus gallus,106600
+587,"Pollo, sovracoscio con pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106603
+588,"Pollo, sovracoscio senza pelle crudo",Carni Fresche,Gallus gallus,106610
+589,"Pollo, sovracoscio senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Gallus gallus,106613
+590,Polmone di bovino,Frattaglie,Bos taurus,115600
+591,Polpo,Prodotti della pesca,Octopus vulgaris,127150
+592,Pomodori da insalata,Verdure e Ortaggi,Solanum lycopersicum L.,6600
+593,Pomodori maturi,Verdure e Ortaggi,Solanum lycopersicum L.,6610
+594,Pomodori San Marzano,Verdure e Ortaggi,Solanum lycopersicum L.,6620
+595,"Pomodori, conserva",Verdure e Ortaggi,Solanum lycopersicum L.,6660
+596,"Pomodori, passata",Verdure e Ortaggi,Solanum lycopersicum L.,6670
+597,"Pomodori, pelati in scatola [frutti più succo naturale]",Verdure e Ortaggi,Solanum lycopersicum L.,6680
+598,"Pomodori, succo",Verdure e Ortaggi,Solanum lycopersicum L.,6690
+599,Pompelmo,Frutta,Citrus paradisi,8070
+600,Pop corn,Prodotti Vari,,501200
+601,Porri crudi,Verdure e Ortaggi,Allium porrum,5650
+602,"Porri, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Allium porrum,5655
+603,Prezzemolo,Verdure e Ortaggi,Petroselinum sativum (crispum),6840
+604,Prosciutto cotto,Carni Trasformate e Conservate,,110400
+605,"Prosciutto cotto, magro [privato del grasso visibile]",Carni Trasformate e Conservate,,110410
+606,Prosciutto crudo di montagna,Carni Trasformate e Conservate,,110500
+607,Prosciutto crudo di Parma,Carni Trasformate e Conservate,,110510
+608,"Prosciutto crudo di Parma, magro [privato del grasso visibile]",Carni Trasformate e Conservate,,110520
+609,Prosciutto crudo San Daniele,Carni Trasformate e Conservate,,110530
+610,"Prosciutto crudo San Daniele, magro [privato del grasso visibile]",Carni Trasformate e Conservate,,110570
+611,"Prosciutto crudo, disossato",Carni Trasformate e Conservate,,110540
+612,"Prosciutto crudo, disossato, magro [privato del grasso visibile]",Carni Trasformate e Conservate,,110550
+613,"Prosciutto crudo, gambuccio",Carni Trasformate e Conservate,,110560
+614,Provolone,Formaggi e latticini,,166100
+615,Prugne,Frutta,Prunus domestica,7340
+616,Prugne gialle,Frutta,Prunus domestica,7350
+617,Prugne rosse,Frutta,Prunus domestica,7360
+618,Prugne secche,Frutta,Prunus domestica,7370
+619,Puntarelle,Verdure e Ortaggi,Cichorium intybus,5260
+620,Quaglia,Carni Fresche,Coturnix coturnix,108530
+621,Radicchio rosso,Verdure e Ortaggi,Cichorium intybus,5440
+622,Radicchio verde,Verdure e Ortaggi,Cichorium intybus,5450
+623,Rana,Carni Fresche,Rana esculenta,109510
+624,Rape crude,Verdure e Ortaggi,Brassica rapa cv. rapifera,5660
+625,"Rape, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Brassica rapa cv. rapifera,5665
+626,Ravanelli,Verdure e Ortaggi,Raphanus sativus,5670
+627,Razza,Prodotti della pesca,Raja asterias,122200
+628,Rene di bovino,Frattaglie,Bos taurus,115710
+629,Rene di ovino,Frattaglie,Ovis agnus,115720
+630,Rene di suino,Frattaglie,Sus scrofa domestica,115730
+631,Ribes,Frutta,Ribes nigrun; Ribes rubrum,7770
+632,Ricotta di bufala,Formaggi e latticini,,166800
+633,Ricotta di pecora,Formaggi e latticini,,166810
+634,Ricotta di vacca,Formaggi e latticini,,166820
+635,Riso brillato crudo,Cereali e Derivati,Oryza sativa,100
+636,"Riso brillato, cotto [bollito in acqua distillata senza aggiunta di sale]",Cereali e Derivati,Oryza sativa,105
+637,Riso integrale crudo,Cereali e Derivati,Oryza sativa,110
+638,"Riso integrale, cotto  [bollito in acqua distillata senza aggiunta di sale]",Cereali e Derivati,Oryza sativa,115
+639,Riso parboiled crudo,Cereali e Derivati,Oryza sativa,120
+640,"Riso parboiled, cotto  [bollito in acqua distillata senza aggiunta di sale]",Cereali e Derivati,Oryza sativa,125
+641,Riso soffiato da prima colazione,Cereali e Derivati,,3050
+642,Robiola,Formaggi e latticini,,166850
+643,Rombo,Prodotti della pesca,Rhombus maximus,122300
+644,Rosmarino,Verdure e Ortaggi,Rosmarinus officinalis,6850
+645,Rughetta o rucola,Verdure e Ortaggi,Eruca sativa,5460
+646,Salame Brianza,Carni Trasformate e Conservate,,110600
+647,Salame cacciatore,Carni Trasformate e Conservate,,110610
+648,Salame Fabriano,Carni Trasformate e Conservate,,110620
+649,Salame Felino,Carni Trasformate e Conservate,,110630
+650,Salame Milano,Carni Trasformate e Conservate,,110640
+651,Salame Napoli,Carni Trasformate e Conservate,,110650
+652,Salame nostrano,Carni Trasformate e Conservate,,110660
+653,Salame ungherese,Carni Trasformate e Conservate,,110670
+654,Salmone fresco,Prodotti della pesca,Salmo salar,122400
+655,"Salmone, affumicato",Prodotti della pesca,Salmo salar,122410
+656,"Salmone, in salamoia",Prodotti della pesca,Salmo salar,122430
+657,Salpa,Prodotti della pesca,Boops salpa,122500
+658,Salsa tomato ketchup,Prodotti Vari,,502260
+659,Salsiccia di fegato,Carni Trasformate e Conservate,,110700
+660,"Salsiccia di suino, fresca cruda",Carni Trasformate e Conservate,,110710
+661,"Salsiccia di suino, fresca, cotta, saltata in padella senza aggiunta di grassi e di sale",Carni Trasformate e Conservate,,110716
+662,"Salsiccia di suino, secca",Carni Trasformate e Conservate,,110720
+663,Salvia,Verdure e Ortaggi,Salvia officinalis,6860
+664,Sarago,Prodotti della pesca,Diplodus vulgaris,122600
+665,Sarda fresca,Prodotti della pesca,Sardina pilchardus,122700
+666,Sarda in salamoia,Prodotti della pesca,Sardina pilchardus,122710
+667,Sardine fresche,Prodotti della pesca,Sardina pilchardus,122800
+668,Sardine fritte,Prodotti della pesca,Sardina pilchardus,122806
+669,"Sardine, sott'olio",Prodotti della pesca,Sardina pilchardus,122810
+670,"Sardine, sott'olio, sgocciolate",Prodotti della pesca,Sardina pilchardus,122820
+671,Savoiardi,Dolci,,215000
+672,Scamorza,Formaggi e latticini,,167200
+673,Scorfano,Prodotti della pesca,Scorpaena scropha,122900
+674,Sedano crudo,Verdure e Ortaggi,Apium graveolens,5680
+675,Sedano rapa,Verdure e Ortaggi,Brassica rapa cv. Rapifera,5690
+676,"Sedano, cotto [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Apium graveolens,5684
+677,Sego di bue,Olii e Grassi,Bos taurus,192010
+678,Semi di zucca secchi,Verdure e Ortaggi,,6980
+679,Semola,Cereali e Derivati,Triticum durum,310
+680,Seppia,Prodotti della pesca,Sepia officinalis,127160
+681,Sgombro o maccarello fresco,Prodotti della pesca,Scomber scombrus,123000
+682,"Sgombro o maccarello, in salamoia",Prodotti della pesca,Scomber scombrus,123010
+683,Snack di frutta pressata,Frutta,,8900
+684,"Sogliola, fresca",Prodotti della pesca,Solea solea,123100
+685,"Sogliola, surgelata",Prodotti della pesca,Solea solea,123110
+686,Soia secca,Legumi,Glicine max,4900
+687,"Soia, isolato proteico",Legumi,Glicine max,4910
+688,"Soia, latte",Prodotti Vari,,509010
+689,"Soia, salsa",Prodotti Vari,,509020
+690,"Soia, yogurt",Prodotti Vari,,509030
+691,Speck,Carni Trasformate e Conservate,,110800
+692,Spigola,Prodotti della pesca,Morone labrax,123200
+693,"Spigola d'allevamento, filetti",Prodotti della pesca,Morone labrax,123220
+694,Spinaci crudi,Verdure e Ortaggi,Spinacia oleracea,5700
+695,"Spinaci, cotti [bolliti in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Spinacia oleracea,5705
+696,"Spinaci, cotti [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Spinacia oleracea,5704
+697,"Spinaci, surgelati",Verdure e Ortaggi,Spinacia oleracea,5710
+698,Spumante,Bevande Alcooliche,,409000
+699,Storione,Prodotti della pesca,Acipenser spp.,123300
+700,"Storione, uova [caviale]",Prodotti della pesca,Acipenser spp.,123390
+701,Stracchino,Formaggi e latticini,,167250
+702,Strutto o sugna,Olii e Grassi,,193010
+703,Struzzo crudo [tessuto muscolare privato del grasso visibile],Carni Fresche,Struthio camelus,108900
+704,"Struzzo, cotto [tessuto muscolare privato del grasso visibile, cotto in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Struthio camelus,108901
+705,Succo di frutta [albicocca e pera],Frutta,,8930
+706,Suro o sugarello,Prodotti della pesca,Trachurus mediterraneus,124100
+707,"Tacchino intero, con pelle crudo",Carni Fresche,Meleagris gallopavo,106700
+708,"Tacchino intero, senza pelle crudo",Carni Fresche,Meleagris gallopavo,106710
+709,"Tacchino intero, senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Meleagris gallopavo,106719
+710,"Tacchino, coscio, con pelle crudo",Carni Fresche,Meleagris gallopavo,106800
+711,"Tacchino, fesa cruda",Carni Fresche,Meleagris gallopavo,106850
+712,"Tacchino, fesa, cotta [saltata in padella senza aggiunta di grassi e di sale]",Carni Fresche,Meleagris gallopavo,106856
+713,"Tacchino, fuso, con pelle crudo",Carni Fresche,Meleagris gallopavo,106900
+714,"Tacchino, fuso, con pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Meleagris gallopavo,106903
+715,"Tacchino, fuso, senza pelle crudo",Carni Fresche,Meleagris gallopavo,106910
+716,"Tacchino, fuso, senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Meleagris gallopavo,106913
+717,"Tacchino, sovracoscio, senza pelle crudo",Carni Fresche,Meleagris gallopavo,106960
+718,"Tacchino, sovracoscio, senza pelle, cotto [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Carni Fresche,Meleagris gallopavo,106963
+719,Taleggio,Formaggi e latticini,,167600
+720,Tapioca [farina ricavata dai tuberi della manioca],Cereali e Derivati,Manihot esculenta,320
+721,Tarassaco o dente di leone,Verdure e Ortaggi,Taraxacum officinale,5470
+722,Tartufo nero,Verdure e Ortaggi,Tuber melanosporum,6200
+723,Tè (foglie),Prodotti Vari,Camellia sinensis,508100
+724,Tinca,Prodotti della pesca,Tinca tinca,123400
+725,"Tonno, fresco",Prodotti della pesca,Euthynnus pelamis,123500
+726,"Tonno, in salamoia, sgocciolato",Prodotti della pesca,Euthynnus pelamis,123550
+727,"Tonno, sott'olio",Prodotti della pesca,Euthynnus pelamis,123600
+728,"Tonno, sott'olio, sgocciolato",Prodotti della pesca,Euthynnus pelamis,123610
+729,"Tonno, ventresca, in salamoia, sgocciolata",Prodotti della pesca,Euthynnus pelamis,123700
+730,"Topinambur, cotto [bollito in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Brassica rapa cv. rapifera,6596
+731,Torrone alla mandorla,Dolci,,202800
+732,Torta margherita,Dolci,,209010
+733,"Tortellini, freschi",Cereali e Derivati,,880
+734,"Tortellini, secchi",Cereali e Derivati,,890
+735,Triglia,Prodotti della pesca,Mullus surmuletus (barbatus),123900
+736,Trippa di bovino,Frattaglie,Bos taurus,115800
+737,Trota,Prodotti della pesca,Salmo trutta,124000
+738,"Trota iridea d'allevamento, filetti",Prodotti della pesca,Salmo trutta,124050
+739,"Trota, surgelata",Prodotti della pesca,Salmo trutta,124010
+740,"Trota, surgelata, cotta [in forno a microonde senza aggiunta di acqua e di sale]",Prodotti della pesca,Salmo trutta,124014
+741,"Trota, surgelata, cotta [in forno senza aggiunta di grassi e di sale e scolato dal grasso prodotto con la cottura]",Prodotti della pesca,Salmo trutta,124013
+742,"Uova di anatra, intero",Uova,,180010
+743,"Uova di anatra, tuorlo",Uova,,180030
+744,"Uova di gallina, albume",Uova,,182010
+745,"Uova di gallina, intero",Uova,,181100
+746,"Uova di gallina, intero, congelato",Uova,,181500
+747,"Uova di gallina, intero, cotto a frittata o strapazzato",Uova,,181117
+748,"Uova di gallina, intero, cotto alla coque o sodo",Uova,,181105
+749,"Uova di gallina, intero, in polvere",Uova,,181600
+750,"Uova di gallina, tuorlo",Uova,,183010
+751,"Uova di gallina, tuorlo, congelato",Uova,,183800
+752,"Uova di gallina, tuorlo, cotto in camicia",Uova,,183015
+753,"Uova di gallina, tuorlo, in polvere",Uova,,183900
+754,"Uova di oca, intero",Uova,,185010
+755,"Uova di tacchina, intero",Uova,,189010
+756,"Uova di tacchina, tuorlo",Uova,,189030
+757,Uva,Frutta,Vitis vinifera,7380
+758,"Uva, bianca",Frutta,Vitis vinifera,7390
+759,"Uva, nera",Frutta,Vitis vinifera,7400
+760,"Uva, secca",Frutta,Vitis vinifera,7410
+761,"Uva, succo, in cartone",Frutta,Vitis vinifera,7420
+762,"Vegetali misti, surgelati: piselli, mais, carote, fagioli",Verdure e Ortaggi,,6990
+763,Vermouth dolce,Bevande Alcooliche,,406500
+764,Vermouth secco,Bevande Alcooliche,,406510
+765,Vino da pasto bianco,Bevande Alcooliche,,405010
+766,Vino da pasto rosso,Bevande Alcooliche,,405020
+767,"Vitello, filetto crudo",Carni Fresche,Bos taurus,101520
+768,"Vitello, filetto, cotto [saltato in padella senza aggiunta di grassi e di sale]",Carni Fresche,Bos taurus,101521
+769,"Vitello, grasso separato",Carni Fresche,Bos taurus,196600
+770,Vongola,Prodotti della pesca,Amigdala decussata,127170
+771,Wafer ricoperto di cioccolato,Dolci,,214500
+772,Whisky,Bevande Alcooliche,,408900
+773,Wurstel crudo,Carni Trasformate e Conservate,,110900
+774,"Wurstel, cotto [saltato in padella senza aggiunta di grassi e di sale]",Carni Trasformate e Conservate,,110906
+775,Yogurt caprino,Latte e Yogurt,,158000
+776,"Yogurt da latte, intero",Latte e Yogurt,,150010
+777,"Yogurt da latte, intero, alla frutta",Latte e Yogurt,,150500
+778,"Yogurt da latte, parzialmente scremato",Latte e Yogurt,,151000
+779,"Yogurt da latte, scremato",Latte e Yogurt,,152000
+780,"Yogurt greco, da latte intero",Latte e Yogurt,,150020
+781,"Zampone, confezionato precotto",Carni Trasformate e Conservate,,110950
+782,"Zampone, confezionato precotto [bollito per 20' dentro la confezione e scolato dal liquido prodotto con la cottura]",Carni Trasformate e Conservate,,110955
+783,Zucca gialla,Verdure e Ortaggi,Cucurbita maxima,5720
+784,"Zucchero, saccarosio",Dolci,,201500
+785,Zucchine crude,Verdure e Ortaggi,Cucurbita pepo,5730
+786,"Zucchine, chiare crude",Verdure e Ortaggi,Cucurbita pepo,5740
+787,"Zucchine, chiare, cotte [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Cucurbita pepo,5744
+788,"Zucchine, cotte [bollite in acqua distillata senza aggiunta di sale]",Verdure e Ortaggi,Cucurbita pepo,5735
+789,"Zucchine, scure crude",Verdure e Ortaggi,Cucurbita pepo,5750
+790,"Zucchine, scure, cotte [in forno a microonde senza aggiunta di acqua e di sale]",Verdure e Ortaggi,Cucurbita pepo,5754
